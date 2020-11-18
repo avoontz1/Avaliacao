@@ -1,0 +1,13 @@
+C:\Users\victo_000\Desktop\HTML\Avaliacao\bin\Debug\netcoreapp3.1\Avaliacao.exe
+C:\Users\victo_000\Desktop\HTML\Avaliacao\bin\Debug\netcoreapp3.1\Avaliacao.deps.json
+C:\Users\victo_000\Desktop\HTML\Avaliacao\bin\Debug\netcoreapp3.1\Avaliacao.runtimeconfig.json
+C:\Users\victo_000\Desktop\HTML\Avaliacao\bin\Debug\netcoreapp3.1\Avaliacao.runtimeconfig.dev.json
+C:\Users\victo_000\Desktop\HTML\Avaliacao\bin\Debug\netcoreapp3.1\Avaliacao.dll
+C:\Users\victo_000\Desktop\HTML\Avaliacao\bin\Debug\netcoreapp3.1\Avaliacao.pdb
+C:\Users\victo_000\Desktop\HTML\Avaliacao\obj\Debug\netcoreapp3.1\Avaliacao.csprojAssemblyReference.cache
+C:\Users\victo_000\Desktop\HTML\Avaliacao\obj\Debug\netcoreapp3.1\Avaliacao.AssemblyInfoInputs.cache
+C:\Users\victo_000\Desktop\HTML\Avaliacao\obj\Debug\netcoreapp3.1\Avaliacao.AssemblyInfo.cs
+C:\Users\victo_000\Desktop\HTML\Avaliacao\obj\Debug\netcoreapp3.1\Avaliacao.csproj.CoreCompileInputs.cache
+C:\Users\victo_000\Desktop\HTML\Avaliacao\obj\Debug\netcoreapp3.1\Avaliacao.dll
+C:\Users\victo_000\Desktop\HTML\Avaliacao\obj\Debug\netcoreapp3.1\Avaliacao.pdb
+C:\Users\victo_000\Desktop\HTML\Avaliacao\obj\Debug\netcoreapp3.1\Avaliacao.genruntimeconfig.cache
